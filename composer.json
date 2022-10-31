@@ -1,0 +1,19 @@
+{
+    "name": "lukesnow91/all-in-one-migration-extention",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/lukesnow91/all-in-one-migration-extention",
+    "authors": [
+        {
+            "name": "all-in-one-migration-extention",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">5.6"
+    }
+}
